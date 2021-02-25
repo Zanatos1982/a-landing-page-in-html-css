@@ -1,0 +1,75 @@
+html,
+body {
+  margin: 0px;
+}
+#nav-contact {
+  padding: 15px;
+  display: flex;
+  justify-content: flex-end;
+}
+
+#nav-main {
+  /* margin-top: 100px; */
+  padding: 15px;
+  display: flex;
+  justify-content: flex-start;
+}
+.link {
+  margin-left: 30px;
+  text-decoration: none;
+  color: black;
+}
+.link:hover {
+  color: red;
+}
+
+body {
+  /* margin-left: 10%; */
+  font-family: fantasy;
+}
+.headers {
+}
+.paragraph {
+}
+
+#welcome-msg {
+  background-color: #f7f7f7;
+  padding: 30px;
+  display: flex;
+  justify-content: space-around;
+}
+
+#msg-2 {
+  background-color: #3b516b;
+  text-align: center;
+  padding: 15px;
+  color: white;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+#create-btn,
+#Sign-up {
+  background-color: #fa6125;
+  color: white;
+}
+
+#create-btn {
+  padding: 10px;
+  margin-bottom: 50px;
+}
+#group-a {
+  padding: 15px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+#create-btn {
+  width: 200px;
+  text-align: center;
+}
+
+#group-b {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
